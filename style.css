@@ -11,7 +11,7 @@
 	width: 960px;
  
 }   
-#heading #logo {
+#heading img {
 	float: left;
 	height: 144px;
 	width: 355px;
@@ -47,16 +47,6 @@
 	width: 960px;
 }
 
-/*
-#header ul li.selected a{
-	background-position: 10px 36px;
-	color: #fff;
-	text-shadow: none;
-}
-     #heading a:hover {
-    background: #ddd;
-    color: black;
-     }*/
 #header ul li a,
 #header ul li a span,
 #header ul li a:hover,
